@@ -1,4 +1,4 @@
-file { '/tmp/111.txt':
+file { '/tmp/222.txt':
   ensure  => file,
   content => "hello, 111\n",
 }
